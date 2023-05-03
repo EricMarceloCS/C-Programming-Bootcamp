@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1683129045 source:/home/eric/Development/C-Programming-Bootcamp/Basics-of-C-Programming/Asterisks-Rectangle.c
+	<stdio.h>
+	<stdlib.h>
+
+1683129651 source:/home/eric/Development/C-Programming-Bootcamp/Basics-of-C-Programming/Asterisk-Pattern.c
+	<stdio.h>
+
+1683130738 source:/home/eric/Development/C-Programming-Bootcamp/Basics-of-C-Programming/X-Shape.c
+	<stdio.h>
+
