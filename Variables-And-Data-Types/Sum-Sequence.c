@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-// Sn = (a1 + an) * (n / 2)
+// result = Sn = (a1 + an) * (n / 2)
 
 int main() {
 
