@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1683145075 source:/home/eric/Development/C-Programming-Bootcamp/Variables-And-Data-Types/1.3.+Variables+-+Reading+Input+from+User.c
+	<stdio.h>
+
+1683145809 source:/home/eric/Development/C-Programming-Bootcamp/Variables-And-Data-Types/Birth-Year.c
+	<stdio.h>
+
+1683151475 source:/home/eric/Development/C-Programming-Bootcamp/Variables-And-Data-Types/Rectangle-Area.c
+	<stdio.h>
+
+1683151982 source:/home/eric/Development/C-Programming-Bootcamp/Variables-And-Data-Types/Recatngls-Perimeter.c
+	<stdio.h>
+
