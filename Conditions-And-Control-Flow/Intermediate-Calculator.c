@@ -3,13 +3,11 @@
 
 int main() {
 
-    char* ascii;
     char arithmetic;
     int num1, num2;
 
     printf("Enter a mathmatical operator to execute: \n");
-    scanf("%s", &ascii);
-    arithmetic = (char)ascii;
+    scanf("%s", &arithmetic);
 
     printf("Enter two numbers to to evaluate: ");
     scanf("%d %d", &num1, &num2);
